@@ -1,0 +1,64 @@
+@import url(https://fonts.google.com/specimen/Young+Serif);
+.om{
+    height: 250px;
+    width: 400px;
+    border-radius: 5%;
+    
+}
+body{
+    margin-top: 50px;
+    background-color: hsl(30,54%,90%);
+    
+}
+.am{
+    height: 1500px;
+    width: 400px;
+    background-color: white;
+    
+    padding: 20px;
+    border: 10px solid #fff;
+    border-radius: 5%;
+}
+.imc{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+h1{
+    font-weight: 400px;
+    font-family: 'Serif';
+    margin-left: 2px;
+    font-size: 30px;
+    color: rgb(54, 53, 53);
+}
+p{
+    font-family: 'serif';
+    font-size: 16px;
+    margin-left: 2px;
+}
+h2{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 2px;
+}
+.t{
+    margin-left: 15px;
+    background-color: hsl(330,100%,98%);
+    padding: 1px;
+}
+h4{
+    font-family: serif;
+    margin-left: 10px;
+    color: hsl(332, 51%, 32%);
+}
+.mt{
+    display: flex;
+    justify-content: space-around;
+}
+h5{
+    font-family: serif;
+    margin-top: 18px;
+    color: hsl(14, 45%, 36%);
+}
